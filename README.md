@@ -1,6 +1,5 @@
 # Adidas-Global-Sales-Profit-Analysis
  project utilizing Random Forest Regression (95% accuracy) and K-Means Clustering to analyze 44k+ Adidas global sales records. Optimizes pricing strategies, identifies discount "sweet spots," and provides behavioral market segmentation using Python and Explainable AI (XAI).
-# Adidas Global Sales & Profit Analysis
 
 # Project Overview
 This framework was developed to optimize retail pricing strategies for **Adidas** using a global dataset of **44,888 records**. The project addresses the **"Volume-Profit Paradox"**—identifying the exact discount thresholds that maximize sales velocity without eroding net profit margins.
