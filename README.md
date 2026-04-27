@@ -10,10 +10,12 @@ This framework was developed to optimize retail pricing strategies for **Adidas*
 * **Explainable AI (XAI):** Used feature importance to identify **Discount %** and **Market Exposure** as primary drivers.
 
 # Visual Analytics
-![Model Comparison]("D:\data\project _report\WhatsApp Image 2026-04-20 at 09.57.41.jpeg")
+![Model Comparison](./Model_Comp<img width="1230" height="655" alt="WhatsApp Image 2026-04-20 at 09 49 17" src="https://github.com/user-attachments/assets/338513a4-5fe2-4a2f-990e-4d2797229b77" />
+arison.jpeg)
 *Fig: Random Forest outperforming other algorithms.*
 
-![Elbow Method](./Elbow_Method.jpeg)
+![Elbow Method](./Elbow_Meth<img width="1230" height="655" alt="WhatsApp Image 2026-04-20 at 09 49 17" src="https://github.com/user-attachments/assets/f3b7d37a-3800-4129-bc34-fb447cff33d8" />
+od.jpeg)
 *Fig: Optimal K selection for clustering.*
 
 #Key Business Insights
